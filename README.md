@@ -1,2 +1,2 @@
-# Aulas_em_vídeo
+# Minha praticas das aulas de Javascript
  
